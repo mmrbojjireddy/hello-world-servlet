@@ -16,3 +16,5 @@ sample
 28/02/2022 --> it is Monday 8.53am
 28/02/2022  --> today is last working day in Feb 22--3:42
 Practise PollSCM
+
+04/03/2022 --> Today is Friday
