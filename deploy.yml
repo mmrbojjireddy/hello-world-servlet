@@ -3,7 +3,7 @@
   become: true
   tasks:
   - name: Stop Tomcat
-    service: name=tomcat state=stopped
+    service: name=ApacheTomcat state=stopped
   - name: Check that war file exist
     stat:
       path: /usr/share/tomcat/webapps/hello-world-servlet-example.war
